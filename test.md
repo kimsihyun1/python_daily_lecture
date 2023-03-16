@@ -1,7 +1,4 @@
-# 이미지 테스크
+# 이미지 테스트
 
 
 <img src='iamages/yaktocat.png' width=100> 
-
-# 테스크
-
